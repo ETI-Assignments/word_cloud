@@ -1,0 +1,9 @@
+README.md
+setup.py
+word_cloud/__init__.py
+word_cloud/word_cloud_generator.py
+word_cloud.egg-info/PKG-INFO
+word_cloud.egg-info/SOURCES.txt
+word_cloud.egg-info/dependency_links.txt
+word_cloud.egg-info/requires.txt
+word_cloud.egg-info/top_level.txt
